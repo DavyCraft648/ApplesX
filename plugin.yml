@@ -1,0 +1,11 @@
+name: ApplesX
+version: 1.0.0
+src-namespace-prefix: DavyCraft648\ApplesX
+main: DavyCraft648\ApplesX\Main
+api: 5.0.0
+authors:
+  - DavyCraft648
+  - Laith
+description: |
+  Adds apples with special abilities into Minecraft
+  https://mcpedl.com/apples-x-addon-1

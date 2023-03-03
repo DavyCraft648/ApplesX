@@ -1,0 +1,5 @@
+send-pack: true
+enable-setblock: false
+enable-block-replace: false
+enable-lightning: false
+enable-explosion: false
