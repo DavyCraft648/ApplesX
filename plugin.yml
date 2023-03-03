@@ -3,6 +3,8 @@ version: 1.0.0
 src-namespace-prefix: DavyCraft648\ApplesX
 main: DavyCraft648\ApplesX\Main
 api: 5.0.0
+depend:
+  - Customies
 authors:
   - DavyCraft648
   - Laith
